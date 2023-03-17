@@ -1,0 +1,12 @@
+.denemes{
+    color: coral;
+}
+.badge-success{
+    background-color: rgb(17, 132, 233);
+}
+.badge-primary{
+    background-color: green;
+}
+.badge-danger{
+    background-color: red;
+}

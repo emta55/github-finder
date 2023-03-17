@@ -1,0 +1,9 @@
+@import "./bootstrap_overrides.css";
+@import "../../node_modules/bootstrap/dist/css/bootstrap.css";
+
+body {
+  color: black;
+}
+h1 {
+  font-size: 3rem;
+}
